@@ -2,9 +2,9 @@ import os
 from telethon import TelegramClient, events, Button
 
 # Set your API ID, API hash, and bot token here
-API_ID = "23202176"
-API_HASH = 'a76d6b733ac7f8741a356d1df5f44d51'
-BOT_TOKEN = '6502103329:AAFLhdsQ2OdtmNKOh1lITyQNPFX4XKHgJ44'
+API_ID = "13279715"
+API_HASH = '56e198053932ecf216af72a2ddffcd78'
+BOT_TOKEN = '6753549807:AAEfAzx9dJslsByEp1WY6QzpFe_UGjjhIMY'
 
 # Create a TelegramClient instance
 client = TelegramClient('vote_bot_session', API_ID, API_HASH)
